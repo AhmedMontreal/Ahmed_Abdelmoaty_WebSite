@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: أبو أنس
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ahmed Abdelmoaty
 
 # Full name (for SEO)
 first_name: Ahmed
