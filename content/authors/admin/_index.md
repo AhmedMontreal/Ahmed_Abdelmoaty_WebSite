@@ -153,23 +153,20 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Game Theory II: Advanced Applications
+    url: https://www.coursera.org/learn/game-theory-2
+    date: '2018-01-13'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
+      I studied the advanced concepts of game theory and its practical applications. By the end, I was well-versed in significant topics such as social choice, mechanism design, efficient mechanisms, and auctions. I gained insights into designing interactions between agents to achieve optimal social outcomes, understood the complexities of collective decision-making, and learned to implement various auction models. This course equipped me with the skills to apply game theory principles to real-world scenarios and strategic decision-making processes.
+  - title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+    date: '2019-06-22'
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+      I studied the foundational principles of TensorFlow and its applications in artificial intelligence, machine learning, and deep learning. By the end, I was proficient in best practices for using TensorFlow, a widely-used open-source machine learning framework. I learned to build and train basic neural networks, specifically for computer vision applications, and understood how to enhance these networks using convolutions. This course equipped me with the skills to implement and optimize neural networks for various AI and machine learning tasks.
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
