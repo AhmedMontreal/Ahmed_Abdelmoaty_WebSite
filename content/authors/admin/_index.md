@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Abu_Anas
+title: Ahmed Abdelmoaty
 
 # Name pronunciation (optional)
 name_pronunciation: Ahmed Abdelmoaty
@@ -24,13 +24,13 @@ role: AI Senior Sceintist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: REMI
+    url: https://remi-institute.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-- icon: at-symbol  # Corrected: Single space after colon
+- icon: at-symbol  
   url: 'e.ahmedrefaay@gamil.com'  
 
 - icon: brands/github
@@ -51,7 +51,7 @@ interests:
   - Information Technology
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Electrical and Computer Engineering
     institution: Quebec University
     date_start: 2018-10-01
     date_end: 2022-12-01
