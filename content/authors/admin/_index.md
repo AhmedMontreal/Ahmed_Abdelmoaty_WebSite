@@ -56,7 +56,7 @@ education:
     date_start: 2018-10-01
     date_end: 2022-12-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Resiliency in Wireless Backhaul Networks: Analysis, Optimization and Machine Learning Approaches_. Supervised by [Prof Diala Naboulsi]([https://example.com](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/dnaboulsi)). Presented papers at 2 IEEE conferences with the contributions being published in 3 IEEE journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -68,9 +68,9 @@ education:
       GPA: 3.4/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Stochastic Processes
+      - Game theory
+      - Digital Signal Processing
   - area: BSc Communication and Electronics Engineering
     institution: Al-Azhar University
     date_start: 1999-09-01
@@ -79,32 +79,32 @@ education:
       GPA: 3.7/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Digital Communication
+      - Digital and Anallog Electronic circuits
+      - Information Theory
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Director of Information and decision-making center
+    company_name: Telecom Egypt
+    company_url: 'https://www.te.eg/wps/portal/te/Personal'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2006-10-01
+    date_end: 2012-05-20
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Authored comprehensive reports for supervisors and decision-makers, ensuring clarity and actionable insights.
+      - Evaluated vendor proposals and provided informed approvals, maintaining high standards and compliance.
+      - Oversaw courses and tutorial sessions for junior engineers, fostering skill development and knowledge transfer.
+  - position: Teaching and Research Assistant
+    company_name: King Fahd University of Petroleum and Minerals
+    company_url: 'https://www.kfupm.edu.sa/'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-01-01
+    date_end: 2017-06-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Instructed Digital Signal Processing (DSP) courses and supervised student term projects, ensuring comprehensive understanding and application.
+      - Assessed exams and provided student support during office hours, fostering academic success and addressing individual needs.
+      - Conducted educational tutorials and laboratory sessions, enhancing practical skills and theoretical knowledge.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
