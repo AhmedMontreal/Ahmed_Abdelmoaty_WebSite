@@ -30,17 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'e.ahmedrefaay@gamil.com'
-    label: E-mail Me
-  - icon: brands/github
-    url: [https://github.com/AhmedMontreal](https://github.com/AhmedMontreal)
-  - icon: brands/linkedin
-    url: [https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-m-abdelmoaty/)
-  - icon: academicons/google-scholar
-    url: [https://scholar.google.com/](https://scholar.google.ca/citations?user=_PTE-TYAAAAJ&hl=en)
-  - icon: academicons/orcid
-    url: [https://orcid.org/](https://orcid.org/my-orcid?orcid=0000-0003-2407-252X)
+
 
 interests:
   - Artificial Intelligence and Machine Learning
