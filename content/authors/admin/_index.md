@@ -40,7 +40,7 @@ profiles:
   url: https://www.linkedin.com/in/ahmed-m-abdelmoaty/ 
 
 - icon: academicons/google-scholar
-  url: https://scholar.google.com/ 
+  url: https://scholar.google.ca/citations?user=_PTE-TYAAAAJ&hl=en
 - icon: academicons/orcid
   url: https://orcid.org/my-orcid?orcid=0000-0003-2407-252X  
 
