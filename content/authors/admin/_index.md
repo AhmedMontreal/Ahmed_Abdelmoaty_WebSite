@@ -30,6 +30,20 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+- icon: at-symbol  # Corrected: Single space after colon
+  url: 'e.ahmedrefaay@gamil.com'  # Corrected: Single quotes for email address
+
+- icon: brands/github
+  url: https://github.com/AhmedMontreal  # Corrected: Removed brackets
+
+- icon: brands/linkedin
+  url: https://www.linkedin.com/in/ahmed-m-abdelmoaty/  # Corrected: Removed brackets
+
+- icon: academicons/google-scholar
+  url: https://scholar.google.com/  # Corrected: Removed brackets
+
+- icon: academicons/orcid
+  url: https://orcid.org/my-orcid?orcid=0000-0003-2407-252X  # Corrected: Removed brackets
 
 
 interests:
