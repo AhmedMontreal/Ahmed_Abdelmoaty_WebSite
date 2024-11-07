@@ -1,6 +1,6 @@
 ---
 # Display name
-title: أبو أنس
+title: Abu_Anas
 
 # Name pronunciation (optional)
 name_pronunciation: Ahmed Abdelmoaty
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'e.ahmedrefaay@gamil.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,14 +40,14 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: [https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-m-abdelmoaty/)
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: [https://scholar.google.com/](https://scholar.google.ca/citations?user=_PTE-TYAAAAJ&hl=en)
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: [https://orcid.org/](https://orcid.org/my-orcid?orcid=0000-0003-2407-252X)
 
 interests:
-  - Artificial Intelligence
+  - Artificial Intelligence and Machine Learning
   - Wireless Communication
   - Information Technology
 
@@ -61,23 +61,23 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Electrical Engineering
+    institution: King Fahd University of Petroleum and Minerals (KFUPM)
+    date_start: 2014-01-01
+    date_end: 2017-06-30
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.4/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Communication and Electronics Engineering
+    institution: Al-Azhar University
+    date_start: 1999-09-01
+    date_end: 2004-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.7/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -142,12 +142,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Arabic
     percent: 100
-  - name: Chinese
+  - name: English
+    percent: 95
+  - name: French
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A dedicated researcher focusing on resilient communication networks and machine learning. With a PhD from École de Technologie Supérieure (Quebec, Canada) and experience working with industry leaders like ULTRA and Ericsson Canada, I built a strong network design, optimization, and machine learning foundation. My research interests include developing innovative solutions for 5G and 6G networks, exploring new areas in the communication field, and leveraging machine learning to optimize network performance. I am passionate about contributing to the advancement of communication technology and am eager to collaborate with brilliant minds in both academic and industrial settings.
