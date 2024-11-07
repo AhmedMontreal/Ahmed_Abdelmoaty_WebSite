@@ -56,7 +56,7 @@ education:
     date_start: 2018-10-01
     date_end: 2022-12-01
     summary: |
-      Thesis on _Resiliency in Wireless Backhaul Networks: Analysis, Optimization and Machine Learning Approaches_. Supervised by [Prof Diala Naboulsi]([https://example.com](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/dnaboulsi)). Presented papers at 2 IEEE conferences with the contributions being published in 3 IEEE journals.
+      Thesis on _Resiliency in Wireless Backhaul Networks: Analysis, Optimization and Machine Learning Approaches_. Supervised by [Prof Diala Naboulsi](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/dnaboulsi). Presented papers at 2 IEEE conferences with the contributions being published in 3 IEEE journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
