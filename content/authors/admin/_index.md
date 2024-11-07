@@ -153,7 +153,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Game Theory II: Advanced Applications
+  - title: Game Theory II- Advanced Applications
     url: https://www.coursera.org/learn/game-theory-2
     date: '2018-01-13'
     awarder: Coursera
