@@ -89,7 +89,7 @@ work:
     company_logo: ''
     date_start: 2006-10-01
     date_end: 2012-05-20
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Authored comprehensive reports for supervisors and decision-makers, ensuring clarity and actionable insights.
       - Evaluated vendor proposals and provided informed approvals, maintaining high standards and compliance.
@@ -161,7 +161,7 @@ awards:
     summary: |
       I studied the advanced concepts of game theory and its practical applications. By the end, I was well-versed in significant topics such as social choice, mechanism design, efficient mechanisms, and auctions. I gained insights into designing interactions between agents to achieve optimal social outcomes, understood the complexities of collective decision-making, and learned to implement various auction models. This course equipped me with the skills to apply game theory principles to real-world scenarios and strategic decision-making processes.
   - title: Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    url: https://www.coursera.org/account/accomplishments/verify/Y3BXFYJ3CULU
     date: '2019-06-22'
     awarder: Coursera
     icon: coursera
