@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: [https://github.com/AhmedMontreal](https://github.com/AhmedMontreal)
   - icon: brands/linkedin
     url: [https://www.linkedin.com/](https://www.linkedin.com/in/ahmed-m-abdelmoaty/)
   - icon: academicons/google-scholar
