@@ -167,14 +167,13 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational principles of TensorFlow and its applications in artificial intelligence, machine learning, and deep learning. By the end, I was proficient in best practices for using TensorFlow, a widely-used open-source machine learning framework. I learned to build and train basic neural networks, specifically for computer vision applications, and understood how to enhance these networks using convolutions. This course equipped me with the skills to implement and optimize neural networks for various AI and machine learning tasks.
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
+  - title: Entrepreneurial Emerging Leaders (EEL) Acceleration Program
+    url: https://ei.kfupm.edu.sa/our-programs/eel-acceleration-program/
+    date: '2016-04-01'
+    awarder: KFUPM
     icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I participated in the EEL Acceleration Program at KFUPM’s Entrepreneurship Institute, which focused on fostering entrepreneurial skills and startup development. By the end, I was proficient in creating business plans, marketing strategies, and financial models. I learned to innovate and develop business ideas, specifically through hands-on mentoring and access to incubator resources. This program equipped me with the skills to launch and grow successful startups, providing a solid foundation in entrepreneurship.
 ---
 
 ## About Me
